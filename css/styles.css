@@ -10,7 +10,7 @@ html {
     margin: 0;
     padding: 0;
 }
-h1, p, h2 {
+h1, p, h2, h3 {
     text-align: center;
     color: wheat;
     background-color: black;
