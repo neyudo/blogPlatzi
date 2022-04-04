@@ -10,8 +10,8 @@ html {
     margin: 0;
     padding: 0;
 }
-h1, p {
+h1, p, h2 {
     text-align: center;
-    color: aqua;
-    background-color: crimson;
+    color: wheat;
+    background-color: black;
 }
