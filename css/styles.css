@@ -17,3 +17,48 @@ body {
     right: 0;
     left: 0;
 }
+
+header {
+    display: grid;
+    grid-template-rows: 50px 90px;
+}
+.header__algo {
+    background-color: #47cfac;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.header__algo .links__container a {
+    text-decoration: none;
+}
+.header__algo .links__container a span {
+    color: white;
+}
+.header__algo .links__container {
+    width: 300px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+header nav section div a img {
+    height: 90px;
+}
+header nav {
+    display: flex;
+    justify-content: space-between;
+}
+header nav .mi {
+    margin-right: 50px;
+    align-self: center;
+}
+header nav .logo {
+    margin-left: 50px;
+}
+/* header nav .logo a {
+    display: inline-block;
+}
+header nav .logo  {
+    display: inline-block;
+}
+ */
