@@ -65,7 +65,7 @@ header nav .logo {
 }
 /* __________Main______________ */
 main {
-    background-image: url("/assets/img/Cover.png");
+    background-image: url("https://i.postimg.cc/sDXV6h4Y/Cover.png");
     background-position:center;
     background-repeat: no-repeat;
     background-size:cover;
