@@ -71,13 +71,14 @@ main {
     background-size:cover;
     display: flex;
     justify-content: center;
-    height: 100%;
+    height: calc(100vh - 140px);
 }
 .main__container {
     width: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: space-evenly;
 }
 main .main__container .main__text h1 {
     word-spacing: 1rem;
@@ -87,10 +88,8 @@ main .main__container .main__text h1 {
     font-size: 3.5rem;
 }
 main .main__container .main__text {
-    margin-top: 100px;
 }
 main .main__container .main__button {
-    margin-top: 80px ;
 }
 main .main__container .main__button .button__entraYa {
     font-size: 2rem;
