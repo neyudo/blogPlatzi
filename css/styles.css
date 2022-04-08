@@ -87,10 +87,10 @@ main .main__container .main__text h1 {
     color: white;
     font-size: 3.5rem;
 }
-main .main__container .main__text {
+/* main .main__container .main__text {
 }
 main .main__container .main__button {
-}
+} */
 main .main__container .main__button .button__entraYa {
     font-size: 2rem;
     background-color: #47cfac;
